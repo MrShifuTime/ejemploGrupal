@@ -5,6 +5,8 @@
  */
 package pruebagrupalgithub;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author rls
@@ -17,6 +19,8 @@ public class PruebagrupalGitHub {
     public static void main(String[] args) {
         System.out.println("hola seba");
         System.out.println("Prueba");
+        System.out.println("Prueba 2");
+        JOptionPane.showMessageDialog(null, "Hola");
     }
     
 }
