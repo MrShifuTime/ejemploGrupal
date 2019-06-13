@@ -21,6 +21,8 @@ public class PruebagrupalGitHub {
         System.out.println("Prueba");
         System.out.println("Prueba 2");
         JOptionPane.showMessageDialog(null, "Hola");
+        
+        System.out.println("prueba al revez");
     }
     
 }
