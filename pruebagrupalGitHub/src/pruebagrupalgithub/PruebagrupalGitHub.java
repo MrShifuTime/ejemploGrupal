@@ -16,6 +16,7 @@ public class PruebagrupalGitHub {
      */
     public static void main(String[] args) {
         System.out.println("hola seba");
+        System.out.println("Prueba");
     }
     
 }
